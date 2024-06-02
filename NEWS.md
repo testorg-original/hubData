@@ -5,4 +5,4 @@
 
 # hubData 0.0.1
 
-* Initial package release resulting from split of `hubUtils` package. See [`hubUtils` NEWS.md](https://github.com/testorg-original/hubUtils/blob/main/NEWS.md) for details including previous release notes.
+* Initial package release resulting from split of `hubUtils` package. See [`hubUtils` NEWS.md](https://github.com/testorg-rename/hubUtils/blob/main/NEWS.md) for details including previous release notes.
